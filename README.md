@@ -1,7 +1,6 @@
 # NadFlip
 
-[https://nadflip.com](https://nadflip.com)
-NadFlip is a decentralized coinflip game deployed on the Monad Testnet. It features fair randomness using Pyth Entropy, a growing jackpot pool, live player stats, and a responsive frontend interface. This project is intended for demonstration and testing purposes only.
+[Nadflip](https://nadflip.com) is a decentralized coinflip game deployed on the Monad Testnet. It features fair randomness using Pyth Entropy, a growing jackpot pool, live player stats, and a responsive frontend interface. This project is intended for demonstration and testing purposes only.
 
 ## Features
 
