@@ -9,7 +9,7 @@ console.log("🔥 NadFlip main.js is running");
 const nadflipKit = createAppKit({
   adapters: [new EthersAdapter()],
   networks: [monadTestnet],
-  projectId: '86c1b74b4af9f89d70916d7f60277854',
+  projectId: 'projectkey',
   metadata: {
     name: 'NadFlip',
     description: 'Flip MON on Monad Testnet',
