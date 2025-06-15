@@ -189,7 +189,7 @@ window.addEventListener("DOMContentLoaded", async () => {
   betInput.addEventListener("focus", () => betInput.select());
   flipBtn = document.getElementById("flipBtn");
 
-  readProvider = new ethers.JsonRpcProvider("https://monad-testnet.g.alchemy.com/v2/TlhjBg6q2GbrpJ71DGqu-erKGuJPuvT0");
+  readProvider = new ethers.JsonRpcProvider("https://monad-testnet.g.alchemy.com/v2/apikey");
   readContract = new ethers.Contract(contractAddress, abi, readProvider);
   
   // new polling
